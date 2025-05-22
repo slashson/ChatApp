@@ -1,5 +1,7 @@
 from chat import send_message_to_model
 
+print('hi')
+
 def main():
     print("🤖 DeepSeek Chat | Type 'exit' to quit\n")
     while True:
